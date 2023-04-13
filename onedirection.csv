@@ -1,0 +1,256 @@
+"artist_name","album_release_date","album_release_year","danceability","energy","key","loudness","speechiness","acousticness","instrumentalness","liveness","valence","tempo","time_signature","duration_ms","explicit","track_name","track_number","album_name","key_mode","popularity"
+"One Direction","2012-11-12",2012,0.569,0.911,2,-2.705,0.0772,0.0194,0,0.0925,0.51,160.054,4,178440,FALSE,"Back For You",11,"Take Me Home (Expanded Edition)","D major",59
+"Harry Styles","2019-12-13",2019,0.653,0.869,5,-3.725,0.0382,0.128,2.2e-05,0.046,0.697,122.017,4,197346,FALSE,"Treat People With Kindness",11,"Fine Line","F major",72
+"Louis Tomlinson","2022-11-11",2022,0.553,0.454,2,-6.698,0.036,0.547,4.26e-06,0.0718,0.487,155.068,4,178853,FALSE,"Common People",13,"Faith In The Future (Deluxe)","D major",61
+"Niall Horan","2020-03-13",2020,0.591,0.841,4,-4.351,0.0304,0.0119,0,0.395,0.392,109.034,4,158805,FALSE,"Nice To Meet Ya",6,"Heartbreak Weather","E minor",63
+"Liam Payne","2019-12-06",2019,0.402,0.541,5,-4.597,0.0599,0.508,0,0.205,0.243,195.843,4,208708,FALSE,"Hips Don't Lie",5,"LP1","F major",39
+"Niall Horan","2020-03-13",2020,0.524,0.49,2,-5.582,0.0308,0.151,0,0.264,0.249,93.335,4,194453,FALSE,"Dear Patience",3,"Heartbreak Weather","D major",56
+"One Direction","2015-11-13",2015,0.655,0.699,11,-4.421,0.0493,0.0352,0,0.064,0.802,86.704,4,187426,FALSE,"History",13,"Made In The A.M. (Deluxe Edition)","B major",74
+"One Direction","2015-11-13",2015,0.678,0.869,0,-4.345,0.0461,0.149,0,0.0593,0.882,123.964,4,200533,FALSE,"What a Feeling",10,"Made In The A.M. (Deluxe Edition)","C minor",67
+"Liam Payne","2019-12-06",2019,0.582,0.257,7,-10.079,0.0355,0.811,0,0.514,0.297,140.007,4,181144,FALSE,"All I Want (For Christmas)",18,"LP1","G minor",43
+"Louis Tomlinson","2022-11-11",2022,0.533,0.835,11,-6.466,0.0707,0.00259,2.25e-05,0.2,0.201,127.968,4,219213,FALSE,"She Is Beauty We Are World Class",12,"Faith In The Future (Deluxe)","B minor",60
+"One Direction","2012-11-12",2012,0.538,0.819,4,-2.662,0.0435,0.0445,0,0.215,0.478,82.085,4,203546,FALSE,"Last First Kiss",5,"Take Me Home (Expanded Edition)","E major",66
+"Niall Horan","2017-10-20",2017,0.723,0.601,11,-7.085,0.0337,0.00534,1.74e-06,0.162,0.718,124.01,4,223814,FALSE,"On The Loose",1,"Flicker (Deluxe)","B minor",59
+"One Direction","2014-11-17",2014,0.515,0.773,6,-4.848,0.0479,0.23,1.29e-06,0.0938,0.379,128.001,4,210893,FALSE,"Fool's Gold",6,"FOUR (Deluxe)","F# major",69
+"One Direction","2013-11-25",2013,0.591,0.899,0,-3.768,0.0536,0.00726,0,0.393,0.446,139.547,4,197920,FALSE,"Little White Lies",13,"Midnight Memories (Deluxe)","C major",60
+"One Direction","2012-11-12",2012,0.495,0.585,9,-5.49,0.0311,0.329,0,0.406,0.318,121.998,4,208040,FALSE,"Summer Love",13,"Take Me Home (Expanded Edition)","A major",59
+"ZAYN","2016-03-25",2016,0.584,0.7,11,-4.275,0.0456,0.117,0,0.0939,0.438,124.944,4,202746,TRUE,"PILLOWTALK",2,"Mind Of Mine (Deluxe Edition)","B major",78
+"Niall Horan","2017-10-20",2017,0.677,0.401,9,-8.467,0.0308,0.712,0,0.116,0.195,111.825,4,232852,FALSE,"This Town",2,"Flicker (Deluxe)","A major",80
+"Harry Styles","2022-05-20",2022,0.576,0.457,0,-6.473,0.0304,0.143,3.05e-05,0.0917,0.301,138.984,4,218577,FALSE,"Satellite",11,"Harry's House","C major",82
+"One Direction","2012-11-12",2012,0.709,0.22,7,-11.856,0.0327,0.811,0,0.175,0.53,110.076,4,219040,FALSE,"Little Things",3,"Take Me Home (Expanded Edition)","G major",76
+"ZAYN","2016-03-25",2016,0.643,0.597,8,-8.451,0.12,0.509,9.9e-06,0.107,0.375,119.827,4,205786,FALSE,"dRuNk",6,"Mind Of Mine (Deluxe Edition)","G# major",57
+"One Direction","2012-05-25",2012,0.498,0.715,0,-4.446,0.0315,0.0607,0,0.274,0.225,151.809,4,229106,FALSE,"More Than This",4,"Up All Night","C major",65
+"ZAYN","2018-12-14",2018,0.625,0.198,4,-15.094,0.034,0.83,0.182,0.112,0.0701,106.531,4,241653,FALSE,"Icarus Interlude",13,"Icarus Falls","E minor",46
+"ZAYN","2018-12-14",2018,0.639,0.402,7,-8.734,0.158,0.594,0,0.382,0.766,91.966,4,171133,FALSE,"Rainberry",23,"Icarus Falls","G major",54
+"ZAYN","2018-12-14",2018,0.644,0.584,10,-5.224,0.0359,0.126,0,0.148,0.485,121.823,4,220720,FALSE,"Tonight",7,"Icarus Falls","A# major",53
+"One Direction","2012-05-25",2012,0.584,0.9,4,-3.637,0.0611,0.00646,0,0.267,0.893,125.007,4,175093,FALSE,"Stand Up",14,"Up All Night","E major",59
+"One Direction","2013-11-25",2013,0.568,0.691,9,-5.225,0.0306,0.188,0,0.0861,0.396,131.007,4,221733,FALSE,"Through the Dark",11,"Midnight Memories (Deluxe)","A major",64
+"ZAYN","2018-12-14",2018,0.541,0.495,6,-8.08,0.136,0.112,0,0.234,0.434,102.517,4,180426,FALSE,"Talk To Me",10,"Icarus Falls","F# minor",49
+"One Direction","2014-11-17",2014,0.554,0.335,5,-5.513,0.0281,0.618,0,0.0927,0.298,133.709,4,158320,FALSE,"Once in a Lifetime",15,"FOUR (Deluxe)","F major",59
+"One Direction","2013-11-25",2013,0.645,0.78,8,-5.165,0.0319,0.218,0,0.0919,0.372,120.008,4,200400,FALSE,"Right Now",9,"Midnight Memories (Deluxe)","G# major",83
+"Louis Tomlinson","2020-01-31",2020,0.614,0.605,0,-5.63,0.0319,0.21,0,0.162,0.333,127.099,4,217866,FALSE,"Two of Us",3,"Walls","C major",62
+"One Direction","2012-11-12",2012,0.614,0.984,1,-2.419,0.0773,0.0118,0,0.65,0.776,142.002,4,182133,FALSE,"Still The One",17,"Take Me Home (Expanded Edition)","C# minor",61
+"Niall Horan","2017-10-20",2017,0.431,0.423,4,-8.623,0.0349,0.122,3.45e-06,0.0889,0.291,176.856,3,214525,FALSE,"Paper Houses",6,"Flicker (Deluxe)","E major",59
+"One Direction","2012-05-25",2012,0.606,0.929,0,-2.182,0.055,0.023,0,0.101,0.622,139.022,4,194693,FALSE,"Up All Night",5,"Up All Night","C major",64
+"Harry Styles","2017-05-12",2017,0.671,0.156,8,-16.288,0.0371,0.804,0.0518,0.113,0.201,94.08,4,211960,FALSE,"From the Dining Table",10,"Harry Styles","G# major",74
+"One Direction","2012-05-25",2012,0.681,0.889,7,-4.339,0.0396,0.0815,0,0.319,0.634,126.909,4,205560,FALSE,"Stole My Heart",13,"Up All Night","G major",58
+"ZAYN","2016-03-25",2016,0.222,0.184,0,-13.235,0.0335,0.925,0.000298,0.1,0.156,184.171,5,224320,FALSE,"BLUE",15,"Mind Of Mine (Deluxe Edition)","C major",50
+"Harry Styles","2022-05-20",2022,0.555,0.536,7,-8.233,0.0452,0.669,0,0.0623,0.203,118.057,4,191638,FALSE,"Love Of My Life",13,"Harry's House","G major",80
+"ZAYN","2021-01-15",2021,0.724,0.64,9,-5.545,0.171,0.0965,3.06e-05,0.268,0.264,149.925,4,188800,FALSE,"Windowsill (feat. Devlin)",9,"Nobody Is Listening","A major",42
+"Harry Styles","2022-05-20",2022,0.714,0.728,10,-4.595,0.0468,0.298,0,0.106,0.901,114.996,4,177954,FALSE,"Late Night Talking",2,"Harry's House","A# major",89
+"ZAYN","2018-12-14",2018,0.684,0.377,0,-8.568,0.112,0.732,1.5e-06,0.145,0.407,139.886,4,190120,FALSE,"Imprint",5,"Icarus Falls","C major",49
+"ZAYN","2016-03-25",2016,0.504,0.458,5,-9.06,0.102,0.233,0.00278,0.0977,0.416,118.161,4,176333,TRUE,"BRIGHT",16,"Mind Of Mine (Deluxe Edition)","F minor",50
+"ZAYN","2021-01-15",2021,0.557,0.292,10,-14.414,0.113,0.942,0.000201,0.106,0.0444,141.684,3,187560,FALSE,"Calamity",1,"Nobody Is Listening","A# minor",43
+"Louis Tomlinson","2022-11-11",2022,0.639,0.855,7,-3.638,0.0289,0.00176,0,0.165,0.925,125.015,4,173946,FALSE,"Headline",9,"Faith In The Future (Deluxe)","G major",62
+"Louis Tomlinson","2020-01-31",2020,0.559,0.592,9,-6.481,0.0323,0.246,0,0.378,0.359,147.931,4,184626,FALSE,"Fearless",9,"Walls","A minor",57
+"Harry Styles","2019-12-13",2019,0.567,0.267,4,-6.502,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,4,240133,FALSE,"Falling",6,"Fine Line","E major",84
+"One Direction","2015-11-13",2015,0.546,0.657,1,-4.787,0.0332,0.0928,0,0.119,0.361,133.188,4,196933,FALSE,"Love You Goodbye",11,"Made In The A.M. (Deluxe Edition)","C# major",67
+"ZAYN","2016-03-25",2016,0.565,0.832,10,-5.732,0.114,0.0247,0,0.26,0.233,112.827,4,192133,FALSE,"LIKE I WOULD",17,"Mind Of Mine (Deluxe Edition)","A# minor",64
+"One Direction","2015-11-13",2015,0.687,0.447,8,-6.586,0.0486,0.0829,0,0.0878,0.501,114.578,4,202640,FALSE,"Walking in the Wind",15,"Made In The A.M. (Deluxe Edition)","G# major",69
+"Louis Tomlinson","2020-01-31",2020,0.569,0.556,4,-8.395,0.0284,0.0536,2e-06,0.32,0.228,99.98,4,229266,FALSE,"Too Young",5,"Walls","E major",58
+"One Direction","2012-11-12",2012,0.599,0.595,2,-5.316,0.0281,0.0634,0,0.103,0.474,117.031,4,212893,FALSE,"Change My Mind",8,"Take Me Home (Expanded Edition)","D major",60
+"One Direction","2014-11-17",2014,0.562,0.703,1,-5.457,0.0361,0.00205,0,0.15,0.538,122.986,4,194200,FALSE,"Illusion",14,"FOUR (Deluxe)","C# major",58
+"ZAYN","2016-03-25",2016,0.822,0.534,7,-8.234,0.0487,0.0792,0,0.126,0.514,100.008,4,252640,TRUE,"lUcOzAdE",13,"Mind Of Mine (Deluxe Edition)","G major",51
+"Niall Horan","2020-03-13",2020,0.465,0.717,9,-5.607,0.0629,0.143,0,0.0643,0.513,199.783,4,197890,FALSE,"Small Talk",5,"Heartbreak Weather","A minor",59
+"ZAYN","2018-12-14",2018,0.647,0.513,9,-6.089,0.0389,0.356,0,0.0973,0.506,92.078,4,195466,FALSE,"Back To Life",3,"Icarus Falls","A minor",56
+"Liam Payne","2019-12-06",2019,0.873,0.495,6,-5.446,0.0518,0.199,0,0.0805,0.546,106.033,4,202061,FALSE,"Strip That Down (feat. Quavo)",12,"LP1","F# major",70
+"Louis Tomlinson","2022-11-11",2022,0.492,0.822,2,-4.892,0.0647,0.0101,0,0.0793,0.409,159.991,4,205186,FALSE,"Silver Tongues",11,"Faith In The Future (Deluxe)","D major",66
+"ZAYN","2018-12-14",2018,0.641,0.452,5,-12.108,0.0868,0.693,0.00721,0.159,0.316,93.018,4,154800,FALSE,"Good Guy",14,"Icarus Falls","F minor",46
+"One Direction","2013-11-25",2013,0.574,0.329,1,-6.829,0.0274,0.22,0,0.0986,0.356,130.993,4,237933,FALSE,"You & I",5,"Midnight Memories (Deluxe)","C# major",77
+"ZAYN","2018-12-14",2018,0.45,0.646,0,-4.443,0.0566,0.00442,0.000473,0.0855,0.3,90.246,1,187160,TRUE,"Too Much (feat. Timbaland)",27,"Icarus Falls","C major",54
+"One Direction","2014-11-17",2014,0.536,0.768,10,-5.948,0.0347,0.00433,0,0.114,0.545,77.217,4,228133,FALSE,"Steal My Girl",1,"FOUR (Deluxe)","A# minor",81
+"ZAYN","2018-12-14",2018,0.594,0.382,0,-11.533,0.163,0.904,0.00162,0.112,0.22,82.452,4,208000,FALSE,"Satisfaction",17,"Icarus Falls","C major",49
+"ZAYN","2018-12-14",2018,0.46,0.566,9,-5.637,0.0502,0.239,5.96e-06,0.0967,0.189,168.408,4,185373,FALSE,"Let Me",1,"Icarus Falls","A major",68
+"Niall Horan","2017-10-20",2017,0.735,0.425,0,-6.648,0.0464,0.011,0,0.055,0.848,85.896,4,188174,FALSE,"Slow Hands",4,"Flicker (Deluxe)","C major",76
+"ZAYN","2016-03-25",2016,0.581,0.32,11,-8.807,0.0309,0.798,0.0105,0.206,0.332,110.04,4,57320,FALSE,"MiNd Of MiNdd (Intro)",1,"Mind Of Mine (Deluxe Edition)","B minor",49
+"Louis Tomlinson","2022-11-11",2022,0.711,0.893,2,-4.687,0.0581,0.0032,9.13e-05,0.151,0.68,124.014,4,207840,FALSE,"Lucky Again",4,"Faith In The Future (Deluxe)","D major",65
+"One Direction","2012-05-25",2012,0.644,0.799,7,-3.575,0.0366,0.0136,0,0.0811,0.79,130.051,4,217453,FALSE,"Everything About You",10,"Up All Night","G major",56
+"Liam Payne","2019-12-06",2019,0.587,0.648,11,-6.927,0.0439,0.0561,0,0.115,0.281,144.028,4,220140,FALSE,"Midnight (feat. Liam Payne)",1,"LP1","B minor",42
+"Louis Tomlinson","2022-11-11",2022,0.611,0.676,11,-5.655,0.026,0.0436,0,0.114,0.777,94.99,4,217026,FALSE,"Angels Fly",14,"Faith In The Future (Deluxe)","B major",64
+"Harry Styles","2019-12-13",2019,0.53,0.512,7,-9.261,0.0259,0.615,0.00453,0.129,0.411,95.946,4,259186,FALSE,"Cherry",5,"Fine Line","G major",74
+"One Direction","2013-11-25",2013,0.547,0.649,2,-5.039,0.0298,0.00793,0,0.201,0.361,114.019,4,236520,FALSE,"Something Great",12,"Midnight Memories (Deluxe)","D major",58
+"Niall Horan","2017-10-20",2017,0.206,0.663,7,-6.365,0.0405,0.000238,0,0.124,0.176,185.387,3,240681,FALSE,"On My Own",11,"Flicker (Deluxe)","G major",54
+"One Direction","2015-11-13",2015,0.73,0.703,0,-5.672,0.0369,0.109,0,0.0657,0.595,138.113,4,192120,FALSE,"Drag Me Down",2,"Made In The A.M. (Deluxe Edition)","C minor",80
+"ZAYN","2021-01-15",2021,0.336,0.43,1,-11.742,0.043,0.325,0.000636,0.143,0.497,169.087,3,164733,FALSE,"Unf**kwitable",8,"Nobody Is Listening","C# major",44
+"Harry Styles","2022-05-20",2022,0.721,0.479,9,-9.669,0.226,0.321,0.00156,0.182,0.902,164.948,3,140241,FALSE,"Keep Driving",10,"Harry's House","A major",80
+"Niall Horan","2020-03-13",2020,0.452,0.766,2,-4.597,0.134,0.0181,0,0.272,0.334,153.348,4,168924,FALSE,"Everywhere",9,"Heartbreak Weather","D major",61
+"Louis Tomlinson","2020-01-31",2020,0.433,0.671,11,-5.549,0.028,0.0196,0,0.138,0.179,88.987,4,229800,FALSE,"Walls",6,"Walls","B major",58
+"One Direction","2013-11-25",2013,0.523,0.939,8,-3.311,0.0454,0.000754,0,0.0406,0.788,160.019,4,174360,FALSE,"Why Don't We Go There",15,"Midnight Memories (Deluxe)","G# major",60
+"ZAYN","2021-01-15",2021,0.691,0.41,2,-7.135,0.245,0.353,0,0.131,0.0904,84.632,4,174520,FALSE,"Better",2,"Nobody Is Listening","D major",51
+"Niall Horan","2020-03-13",2020,0.723,0.726,1,-3.835,0.0472,0.0564,0.000126,0.057,0.962,100.051,4,176283,FALSE,"No Judgement",12,"Heartbreak Weather","C# minor",63
+"One Direction","2014-11-17",2014,0.59,0.944,10,-4.323,0.0499,0.00154,0,0.322,0.596,103.991,4,266600,FALSE,"Change Your Ticket",13,"FOUR (Deluxe)","A# major",59
+"Liam Payne","2019-12-06",2019,0.675,0.606,5,-5.102,0.0285,0.297,0,0.23,0.317,103.968,4,189422,FALSE,"Remember",3,"LP1","F minor",50
+"One Direction","2015-11-13",2015,0.633,0.565,0,-5.179,0.0242,0.0772,2.31e-05,0.168,0.539,145.001,4,192160,FALSE,"Long Way Down",7,"Made In The A.M. (Deluxe Edition)","C major",60
+"ZAYN","2018-12-14",2018,0.456,0.492,2,-7.963,0.476,0.527,0.00949,0.256,0.611,119.346,4,168040,TRUE,"Fresh Air",22,"Icarus Falls","D minor",45
+"Niall Horan","2017-10-20",2017,0.564,0.834,7,-5.277,0.0394,0.00074,0,0.0808,0.639,135.005,4,200626,FALSE,"The Tide",13,"Flicker (Deluxe)","G major",52
+"One Direction","2015-11-13",2015,0.556,0.902,4,-5.143,0.0449,9.17e-05,0,0.0888,0.96,145.914,4,175013,FALSE,"Temporary Fix",14,"Made In The A.M. (Deluxe Edition)","E major",67
+"One Direction","2013-11-25",2013,0.6,0.895,1,-5.807,0.0468,0.001,0,0.145,0.383,129.987,4,161333,FALSE,"Alive",17,"Midnight Memories (Deluxe)","C# major",58
+"One Direction","2012-11-12",2012,0.697,0.894,2,-4.891,0.0599,0.0543,0,0.631,0.795,124.016,4,184306,FALSE,"Loved You First",15,"Take Me Home (Expanded Edition)","D major",59
+"Harry Styles","2017-05-12",2017,0.624,0.647,3,-4.68,0.0335,0.0169,0.0038,0.221,0.379,136.022,4,278800,FALSE,"Woman",9,"Harry Styles","D# minor",71
+"Harry Styles","2017-05-12",2017,0.375,0.93,2,-2.631,0.0561,0.00064,0,0.318,0.491,147.124,4,176386,FALSE,"Kiwi",7,"Harry Styles","D major",77
+"One Direction","2014-11-17",2014,0.681,0.864,3,-3.276,0.0301,0.00477,0,0.122,0.921,132.929,4,174080,FALSE,"Fireproof",9,"FOUR (Deluxe)","D# major",68
+"ZAYN","2021-01-15",2021,0.532,0.582,7,-6.652,0.0436,0.00237,0.00299,0.126,0.163,161.703,4,232266,FALSE,"Sweat",7,"Nobody Is Listening","G minor",47
+"Louis Tomlinson","2022-11-11",2022,0.649,0.798,11,-5.93,0.0269,0.00983,0.00893,0.255,0.699,130.004,4,175706,FALSE,"All This Time",7,"Faith In The Future (Deluxe)","B minor",63
+"Harry Styles","2022-05-20",2022,0.829,0.644,9,-7.696,0.0427,0.354,0.0511,0.0944,0.896,105.993,4,243507,FALSE,"Cinema",8,"Harry's House","A minor",77
+"Niall Horan","2017-10-20",2017,0.443,0.533,0,-6.548,0.0396,0.371,0,0.128,0.201,77.344,4,223043,TRUE,"Too Much To Ask",5,"Flicker (Deluxe)","C major",70
+"One Direction","2013-11-25",2013,0.675,0.874,3,-4.268,0.0494,0.085,0,0.0573,0.673,139.021,4,179413,FALSE,"Does He Know?",16,"Midnight Memories (Deluxe)","D# major",60
+"Liam Payne","2019-12-06",2019,0.69,0.676,7,-6.111,0.0335,0.213,0,0.123,0.664,100.023,4,174779,FALSE,"Live Forever (With Cheat Codes)",9,"LP1","G major",51
+"Louis Tomlinson","2020-01-31",2020,0.493,0.703,7,-5.652,0.0326,0.00836,0,0.242,0.231,75.027,4,183613,FALSE,"Habit",7,"Walls","G major",61
+"One Direction","2013-11-25",2013,0.741,0.663,0,-7.308,0.0434,0.0608,0,0.0931,0.338,115.013,4,184373,FALSE,"Strong",7,"Midnight Memories (Deluxe)","C major",78
+"Harry Styles","2017-05-12",2017,0.624,0.673,4,-4.017,0.0268,0.000569,1.54e-06,0.104,0.458,121.986,4,189613,FALSE,"Carolina",3,"Harry Styles","E minor",70
+"ZAYN","2018-12-14",2018,0.259,0.437,11,-6.589,0.0386,0.102,1.32e-06,0.106,0.0951,180.042,4,239000,FALSE,"Dusk Till Dawn (feat. Sia) - Radio Edit",29,"Icarus Falls","B minor",80
+"Liam Payne","2019-12-06",2019,0.64,0.738,10,-5.175,0.294,0.344,1.7e-05,0.198,0.518,169.942,4,195746,FALSE,"Tell Your Friends",6,"LP1","A# minor",40
+"Louis Tomlinson","2022-11-11",2022,0.459,0.945,2,-3.006,0.113,0.000169,0.000263,0.106,0.255,145.091,4,168680,FALSE,"Face The Music",5,"Faith In The Future (Deluxe)","D major",62
+"ZAYN","2021-01-15",2021,0.597,0.368,2,-10.151,0.0936,0.498,0,0.109,0.59,171.98,4,196493,FALSE,"Connexion",6,"Nobody Is Listening","D minor",26
+"Harry Styles","2022-05-20",2022,0.559,0.535,3,-7.723,0.039,0.719,0.000143,0.0954,0.402,141.96,4,202183,FALSE,"Little Freak",6,"Harry's House","D# major",80
+"Niall Horan","2020-03-13",2020,0.592,0.884,1,-3.689,0.0554,0.00153,0,0.0699,0.772,82.225,4,200029,FALSE,"Heartbreak Weather",1,"Heartbreak Weather","C# major",63
+"One Direction","2012-05-25",2012,0.495,0.583,8,-4.531,0.0249,0.374,0,0.0781,0.603,84.969,4,244506,FALSE,"Gotta Be You",2,"Up All Night","G# major",64
+"One Direction","2014-11-17",2014,0.681,0.582,6,-7.76,0.0313,0.22,0,0.119,0.221,124.038,4,248360,FALSE,"18",4,"FOUR (Deluxe)","F# minor",82
+"Harry Styles","2019-12-13",2019,0.676,0.771,8,-3.675,0.0483,0.0237,7e-06,0.102,0.569,99.048,4,207133,FALSE,"Adore You",3,"Fine Line","G# major",85
+"ZAYN","2018-12-14",2018,0.605,0.658,4,-6.125,0.0556,0.471,0.00332,0.0864,0.287,128.045,4,221520,FALSE,"Scripted",18,"Icarus Falls","E minor",49
+"Niall Horan","2020-03-13",2020,0.639,0.734,9,-3.953,0.0331,0.0228,0,0.126,0.638,108.01,4,189232,FALSE,"New Angel",11,"Heartbreak Weather","A major",54
+"One Direction","2012-11-12",2012,0.638,0.942,5,-4.163,0.0857,0.015,0,0.31,0.745,142.896,4,164680,FALSE,"C'mon, C'mon",4,"Take Me Home (Expanded Edition)","F minor",63
+"ZAYN","2021-01-15",2021,0.722,0.338,11,-9.305,0.0333,0.123,0.00036,0.129,0.0727,113.028,4,208920,FALSE,"Outside",3,"Nobody Is Listening","B major",48
+"One Direction","2012-11-12",2012,0.489,0.917,8,-4.097,0.132,0.00891,0,0.184,0.772,167.57,4,190560,FALSE,"She's Not Afraid",14,"Take Me Home (Expanded Edition)","G# major",63
+"ZAYN","2016-03-25",2016,0.627,0.442,7,-9.048,0.134,0.377,0.0319,0.0984,0.328,91.008,4,239200,FALSE,"BoRdErSz",11,"Mind Of Mine (Deluxe Edition)","G major",56
+"One Direction","2012-05-25",2012,0.474,0.739,2,-4.937,0.0451,0.0283,0,0.299,0.253,149.894,4,262640,FALSE,"Moments",15,"Up All Night","D major",63
+"One Direction","2015-11-13",2015,0.647,0.823,2,-5.231,0.0762,0.0598,0,0.119,0.396,99.933,4,230333,FALSE,"Perfect",3,"Made In The A.M. (Deluxe Edition)","D major",80
+"Liam Payne","2019-12-06",2019,0.663,0.802,9,-4.581,0.323,0.015,0,0.152,0.867,92.971,4,194588,FALSE,"Familiar (With J. Balvin)",14,"LP1","A major",53
+"Louis Tomlinson","2022-11-11",2022,0.749,0.943,0,-4.537,0.0852,0.00625,1.66e-06,0.082,0.686,124.042,4,160560,FALSE,"Written All Over Your Face",2,"Faith In The Future (Deluxe)","C major",69
+"ZAYN","2018-12-14",2018,0.664,0.808,4,-4.31,0.0397,0.00285,0.00869,0.096,0.593,94.979,4,243946,FALSE,"Sour Diesel",16,"Icarus Falls","E minor",53
+"Louis Tomlinson","2020-01-31",2020,0.531,0.78,10,-5.071,0.0317,0.0166,0,0.363,0.688,155.082,4,201613,FALSE,"We Made It",4,"Walls","A# major",56
+"One Direction","2013-11-25",2013,0.54,0.711,7,-5.717,0.0255,0.103,0,0.0827,0.292,92.014,4,241000,FALSE,"Don't Forget Where You Belong",6,"Midnight Memories (Deluxe)","G major",63
+"One Direction","2012-05-25",2012,0.602,0.871,2,-4.208,0.0622,0.00528,0,0.288,0.495,128.057,4,205920,FALSE,"Save You Tonight",12,"Up All Night","D minor",55
+"Liam Payne","2019-12-06",2019,0.743,0.812,7,-3.069,0.132,0.153,0,0.0713,0.606,100.05,4,165710,TRUE,"Stack It Up (feat. A Boogie Wit da Hoodie)",2,"LP1","G major",52
+"ZAYN","2021-01-15",2021,0.645,0.48,4,-8.355,0.0328,0.24,0.0191,0.0911,0.424,96.963,4,204746,FALSE,"Tightrope",10,"Nobody Is Listening","E major",47
+"Harry Styles","2019-12-13",2019,0.448,0.838,4,-5.257,0.0557,0.21,0.000131,0.131,0.254,139.863,4,208906,FALSE,"Golden",1,"Fine Line","E minor",82
+"One Direction","2012-05-25",2012,0.374,0.659,8,-5.472,0.0281,0.00455,0,0.242,0.168,179.961,4,218706,FALSE,"Same Mistakes",11,"Up All Night","G# major",57
+"ZAYN","2016-03-25",2016,0.555,0.532,8,-7.349,0.0765,0.0461,0,0.117,0.668,91.245,4,189960,FALSE,"sHe",5,"Mind Of Mine (Deluxe Edition)","G# major",56
+"Harry Styles","2017-05-12",2017,0.386,0.407,6,-7.095,0.0268,0.234,1.86e-06,0.0999,0.456,69.387,4,229813,FALSE,"Two Ghosts",4,"Harry Styles","F# minor",72
+"One Direction","2014-11-17",2014,0.495,0.883,6,-4.722,0.0402,0.00287,2.26e-05,0.0978,0.642,135.899,4,198653,FALSE,"Act My Age",16,"FOUR (Deluxe)","F# major",61
+"ZAYN","2018-12-14",2018,0.697,0.568,5,-8.017,0.0369,0.475,2.51e-05,0.0922,0.502,153.931,4,202600,TRUE,"Entertainer",19,"Icarus Falls","F major",66
+"One Direction","2012-05-25",2012,0.726,0.787,4,-2.494,0.0737,0.009,0,0.0596,0.888,124.99,4,199986,FALSE,"What Makes You Beautiful",1,"Up All Night","E major",85
+"Harry Styles","2022-05-20",2022,0.52,0.731,6,-5.338,0.0557,0.342,0.00101,0.311,0.662,173.93,4,167303,FALSE,"As It Was",4,"Harry's House","F# minor",92
+"Louis Tomlinson","2020-01-31",2020,0.516,0.871,10,-3.261,0.041,0.00114,0,0.0877,0.457,134.021,4,221760,FALSE,"Kill My Mind",1,"Walls","A# major",59
+"One Direction","2012-11-12",2012,0.44,0.824,9,-4.859,0.073,0.0164,0,0.0955,0.652,99.039,4,176120,FALSE,"Heart Attack",6,"Take Me Home (Expanded Edition)","A major",61
+"One Direction","2015-11-13",2015,0.523,0.883,8,-2.956,0.0365,0.0202,0,0.116,0.35,92.215,4,240000,FALSE,"Hey Angel",1,"Made In The A.M. (Deluxe Edition)","G# major",62
+"One Direction","2012-11-12",2012,0.506,0.909,8,-3.629,0.0528,0.0261,0,0.155,0.814,168.021,4,200266,FALSE,"Rock Me",7,"Take Me Home (Expanded Edition)","G# major",64
+"One Direction","2015-11-13",2015,0.627,0.818,5,-4.243,0.057,0.114,0,0.0504,0.527,123.456,4,241533,FALSE,"Wolves",16,"Made In The A.M. (Deluxe Edition)","F major",64
+"Liam Payne","2019-12-06",2019,0.59,0.668,8,-5.483,0.0532,0.0145,0,0.11,0.345,129.881,4,198096,FALSE,"Both Ways",11,"LP1","G# major",38
+"ZAYN","2021-01-15",2021,0.695,0.582,8,-9.405,0.146,0.303,0.00769,0.0717,0.346,173.976,4,191933,FALSE,"When Love's Around (feat. Syd)",5,"Nobody Is Listening","G# minor",45
+"Harry Styles","2022-05-20",2022,0.645,0.721,5,-4.394,0.0336,0.357,0.143,0.204,0.88,182.928,4,191958,FALSE,"Grapejuice",3,"Harry's House","F major",78
+"Harry Styles","2019-12-13",2019,0.575,0.621,10,-8.165,0.032,0.0392,0.0045,0.141,0.27,101.987,4,172213,FALSE,"Lights Up",4,"Fine Line","A# minor",76
+"One Direction","2014-11-17",2014,0.558,0.916,1,-3.145,0.0839,0.0278,0,0.0296,0.85,142.984,4,199720,FALSE,"No Control",8,"FOUR (Deluxe)","C# minor",72
+"One Direction","2012-05-25",2012,0.507,0.868,2,-5.204,0.0305,0.00387,0,0.413,0.684,95.035,4,237706,FALSE,"Taken",8,"Up All Night","D major",61
+"Louis Tomlinson","2022-11-11",2022,0.381,0.457,9,-7.004,0.0259,0.0583,0,0.0703,0.291,150.097,4,264520,FALSE,"Saturdays",10,"Faith In The Future (Deluxe)","A major",62
+"One Direction","2014-11-17",2014,0.425,0.668,9,-7.542,0.0474,0.231,0,0.0681,0.351,149.924,4,256706,FALSE,"Spaces",10,"FOUR (Deluxe)","A major",60
+"One Direction","2013-11-25",2013,0.63,0.881,4,-3.506,0.0433,0.000467,0,0.0405,0.54,121.468,4,157653,FALSE,"Little Black Dress",10,"Midnight Memories (Deluxe)","E major",62
+"ZAYN","2016-03-25",2016,0.677,0.396,1,-8.229,0.0278,0.117,0,0.0888,0.242,102.028,4,255040,TRUE,"SHE DON'T LOVE ME",18,"Mind Of Mine (Deluxe Edition)","C# minor",51
+"One Direction","2012-11-12",2012,0.637,0.93,4,-2.632,0.0511,0.0177,0,0.452,0.886,90.014,4,182866,FALSE,"Kiss You",2,"Take Me Home (Expanded Edition)","E major",75
+"ZAYN","2018-12-14",2018,0.522,0.434,7,-9.237,0.177,0.346,9.06e-06,0.107,0.559,106.734,5,171240,TRUE,"Fingers",26,"Icarus Falls","G minor",55
+"Louis Tomlinson","2020-01-31",2020,0.535,0.634,10,-5.154,0.034,0.224,0,0.0989,0.462,81.965,4,204973,FALSE,"Don't Let It Break Your Heart",2,"Walls","A# major",63
+"One Direction","2013-11-25",2013,0.6,0.663,3,-5.802,0.0477,0.225,0,0.119,0.286,121.07,4,245493,FALSE,"Story of My Life",2,"Midnight Memories (Deluxe)","D# major",84
+"Louis Tomlinson","2022-11-11",2022,0.583,0.358,6,-6.269,0.0312,0.562,0,0.109,0.323,120.046,4,150666,FALSE,"That's The Way Love Goes",16,"Faith In The Future (Deluxe)","F# major",62
+"One Direction","2013-11-25",2013,0.627,0.839,11,-5.589,0.0508,0.114,0,0.534,0.79,157.993,4,208666,FALSE,"Better Than Words",14,"Midnight Memories (Deluxe)","B minor",60
+"One Direction","2012-11-12",2012,0.658,0.801,11,-4.124,0.0334,0.00727,0,0.0448,0.879,124.008,4,211626,FALSE,"Nobody Compares",16,"Take Me Home (Expanded Edition)","B major",61
+"Harry Styles","2017-05-12",2017,0.537,0.383,2,-6.528,0.0247,0.747,0.00025,0.356,0.339,104.252,4,227200,FALSE,"Meet Me in the Hallway",1,"Harry Styles","D major",70
+"Niall Horan","2017-10-20",2017,0.709,0.672,1,-7.991,0.034,0.306,0,0.117,0.818,126.974,4,242792,FALSE,"Since We're Alone",7,"Flicker (Deluxe)","C# major",54
+"ZAYN","2018-12-14",2018,0.6,0.528,4,-6.16,0.0566,0.118,4.33e-05,0.102,0.257,139.875,4,199400,FALSE,"All That",20,"Icarus Falls","E major",47
+"One Direction","2012-05-25",2012,0.495,0.966,3,-2.284,0.114,0.017,0,0.606,0.553,139.931,4,215933,FALSE,"I Should Have Kissed You",18,"Up All Night","D# major",60
+"Niall Horan","2020-03-13",2020,0.416,0.45,3,-6.198,0.0269,0.123,0,0.113,0.287,97.676,4,251883,FALSE,"Still",14,"Heartbreak Weather","D# major",63
+"Harry Styles","2022-05-20",2022,0.686,0.445,0,-7.189,0.0398,0.484,0.00144,0.175,0.626,145.5,3,164533,FALSE,"Daylight",5,"Harry's House","C major",81
+"Liam Payne","2019-12-06",2019,0.622,0.739,6,-4.685,0.0426,0.322,0,0.111,0.687,121.971,4,207251,TRUE,"Say It All",7,"LP1","F# major",40
+"One Direction","2015-11-13",2015,0.502,0.594,11,-5.031,0.0365,0.0256,0,0.0834,0.349,153.687,5,194973,FALSE,"End of the Day",5,"Made In The A.M. (Deluxe Edition)","B major",66
+"One Direction","2012-05-25",2012,0.62,0.872,7,-3.123,0.0347,0.00914,0,0.111,0.299,124.044,4,216946,FALSE,"I Wish",6,"Up All Night","G major",61
+"Niall Horan","2017-10-20",2017,0.263,0.307,3,-9.724,0.0295,0.71,7.48e-06,0.337,0.239,182.082,3,258025,FALSE,"Flicker",8,"Flicker (Deluxe)","D# major",66
+"One Direction","2015-11-13",2015,0.565,0.245,5,-9.132,0.0262,0.781,0,0.0998,0.307,75.055,4,230320,FALSE,"If I Could Fly",6,"Made In The A.M. (Deluxe Edition)","F major",70
+"One Direction","2015-11-13",2015,0.64,0.681,6,-5.362,0.0334,0.0438,0,0.166,0.676,118.062,4,177973,FALSE,"Olivia",9,"Made In The A.M. (Deluxe Edition)","F# major",71
+"One Direction","2012-05-25",2012,0.582,0.903,11,-2.155,0.0576,0.0191,0,0.374,0.639,144.973,4,185653,FALSE,"Na Na Na",17,"Up All Night","B major",60
+"One Direction","2012-05-25",2012,0.713,0.718,2,-3.806,0.0278,0.00233,0,0.0838,0.656,126.999,4,197600,FALSE,"One Thing",3,"Up All Night","D major",75
+"Harry Styles","2019-12-13",2019,0.603,0.621,2,-7.14,0.0267,0.328,3.49e-05,0.119,0.7,94.022,4,189786,FALSE,"Canyon Moon",10,"Fine Line","D major",72
+"Niall Horan","2020-03-13",2020,0.638,0.725,10,-6.054,0.0387,0.165,0,0.152,0.528,136.059,4,192154,FALSE,"San Francisco",13,"Heartbreak Weather","A# major",54
+"Harry Styles","2019-12-13",2019,0.758,0.436,0,-7.269,0.0418,0.618,1.61e-05,0.335,0.605,104.959,4,192080,FALSE,"To Be So Lonely",7,"Fine Line","C major",72
+"Louis Tomlinson","2020-01-31",2020,0.632,0.724,4,-4.821,0.0308,0.0384,0,0.0554,0.553,100.073,4,187466,FALSE,"Always You",8,"Walls","E major",66
+"Harry Styles","2017-05-12",2017,0.427,0.262,7,-8.541,0.0276,0.746,0,0.068,0.228,104.085,4,224866,FALSE,"Sweet Creature",5,"Harry Styles","G major",75
+"Harry Styles","2017-05-12",2017,0.389,0.537,10,-6.761,0.0309,0.2,3.13e-06,0.125,0.383,127.964,5,253386,FALSE,"Ever Since New York",8,"Harry Styles","A# major",69
+"Harry Styles","2017-05-12",2017,0.554,0.842,5,-4.113,0.0397,0.287,0,0.106,0.348,114.036,4,291080,FALSE,"Only Angel",6,"Harry Styles","F major",70
+"One Direction","2013-11-25",2013,0.623,0.89,9,-4.783,0.0394,0.0426,0,0.153,0.824,117,4,175480,FALSE,"Happily",8,"Midnight Memories (Deluxe)","A major",68
+"One Direction","2012-11-12",2012,0.672,0.388,0,-8.009,0.0315,0.54,0,0.223,0.552,113.051,4,180066,FALSE,"Truly Madly Deeply",18,"Take Me Home (Expanded Edition)","C major",60
+"ZAYN","2018-12-14",2018,0.684,0.516,11,-9.198,0.114,0.377,0,0.0818,0.456,82.962,4,205413,TRUE,"I Don't Mind",12,"Icarus Falls","B minor",50
+"Louis Tomlinson","2020-01-31",2020,0.617,0.358,2,-8.498,0.0273,0.253,0,0.171,0.209,134.977,4,186400,FALSE,"Perfect Now",10,"Walls","D major",57
+"Harry Styles","2022-05-20",2022,0.72,0.715,11,-4.652,0.04,0.258,0.0568,0.107,0.357,107.041,4,193813,FALSE,"Music For a Sushi Restaurant",1,"Harry's House","B major",82
+"Niall Horan","2020-03-13",2020,0.531,0.549,7,-6.204,0.0271,0.0555,1.79e-05,0.177,0.655,144.944,4,234488,FALSE,"Bend The Rules",4,"Heartbreak Weather","G major",54
+"One Direction","2012-05-25",2012,0.674,0.814,7,-2.814,0.0391,0.0182,0,0.079,0.491,128.092,4,173586,FALSE,"I Want",9,"Up All Night","G major",59
+"One Direction","2014-11-17",2014,0.672,0.52,8,-7.747,0.0353,0.859,0,0.115,0.37,120.001,4,226600,FALSE,"Night Changes",7,"FOUR (Deluxe)","G# major",88
+"Harry Styles","2017-05-12",2017,0.516,0.595,5,-4.63,0.0313,0.0275,0,0.109,0.222,119.972,4,340706,FALSE,"Sign of the Times",2,"Harry Styles","F major",85
+"Liam Payne","2019-12-06",2019,0.645,0.761,1,-6.278,0.135,0.206,0,0.0681,0.527,171.933,4,235816,TRUE,"Rude Hours",8,"LP1","C# major",37
+"One Direction","2015-11-13",2015,0.586,0.527,3,-4.905,0.0309,0.227,0,0.0963,0.506,141.839,4,209040,FALSE,"A.M.",17,"Made In The A.M. (Deluxe Edition)","D# major",65
+"ZAYN","2018-12-14",2018,0.4,0.662,11,-6.042,0.199,0.424,0,0.0886,0.324,81.177,4,175773,FALSE,"Insomnia",24,"Icarus Falls","B minor",51
+"Liam Payne","2019-12-06",2019,0.535,0.8,2,-4.569,0.0342,0.0183,0,0.421,0.175,113.023,4,242827,FALSE,"For You (With Rita Ora)",13,"LP1","D minor",65
+"One Direction","2013-11-25",2013,0.652,0.877,1,-2.986,0.0465,0.0227,0,0.0789,0.486,118.491,4,200106,FALSE,"Best Song Ever",1,"Midnight Memories (Deluxe)","C# major",78
+"ZAYN","2018-12-14",2018,0.619,0.751,5,-4.22,0.0496,0.0169,0.000108,0.0949,0.46,122.138,4,195026,FALSE,"No Candle No Light (feat. Nicki Minaj)",25,"Icarus Falls","F minor",52
+"One Direction","2014-11-17",2014,0.508,0.895,9,-3.745,0.0414,0.0424,0,0.198,0.495,168.941,4,201853,FALSE,"Girl Almighty",5,"FOUR (Deluxe)","A major",65
+"ZAYN","2018-12-14",2018,0.768,0.329,7,-11.956,0.0904,0.643,4.16e-05,0.234,0.35,96.009,4,200546,FALSE,"Flight Of The Stars",8,"Icarus Falls","G major",51
+"One Direction","2013-11-25",2013,0.432,0.868,6,-2.01,0.0882,0.00725,0,0.233,0.567,156.128,4,176320,FALSE,"Midnight Memories",4,"Midnight Memories (Deluxe)","F# minor",69
+"ZAYN","2018-12-14",2018,0.452,0.688,0,-4.84,0.0385,0.0263,0,0.11,0.313,76.99,4,199600,FALSE,"There You Are",11,"Icarus Falls","C minor",65
+"One Direction","2015-11-13",2015,0.714,0.443,5,-7.638,0.0256,0.779,0.000109,0.144,0.463,106.038,4,179013,FALSE,"I Want to Write You a Song",12,"Made In The A.M. (Deluxe Edition)","F major",63
+"Niall Horan","2020-03-13",2020,0.49,0.806,8,-4.867,0.0387,0.0283,0,0.0657,0.547,148.021,4,160373,FALSE,"Arms Of A Stranger",8,"Heartbreak Weather","G# minor",56
+"Niall Horan","2017-10-20",2017,0.716,0.555,9,-7.57,0.0371,0.0372,0,0.105,0.483,93.973,4,185280,FALSE,"Seeing Blind",3,"Flicker (Deluxe)","A major",67
+"Niall Horan","2017-10-20",2017,0.564,0.483,0,-8.105,0.0257,0.0654,3.17e-06,0.324,0.596,153.985,4,184951,FALSE,"You And Me",10,"Flicker (Deluxe)","C major",53
+"Harry Styles","2022-05-20",2022,0.707,0.811,4,-5.298,0.0304,0.311,0.0152,0.131,0.899,113.971,4,187342,FALSE,"Daydreaming",9,"Harry's House","E minor",77
+"Niall Horan","2017-10-20",2017,0.575,0.609,2,-7.434,0.0301,0.00989,0,0.125,0.37,139.961,4,218396,FALSE,"Mirrors",12,"Flicker (Deluxe)","D major",58
+"One Direction","2014-11-17",2014,0.678,0.933,2,-4.959,0.14,0.0734,0,0.0863,0.336,120.572,4,214720,FALSE,"Stockholm Syndrome",11,"FOUR (Deluxe)","D major",69
+"Louis Tomlinson","2022-11-11",2022,0.531,0.726,11,-4.518,0.0344,0.028,0,0.284,0.495,90.01,4,181480,FALSE,"The Greatest",1,"Faith In The Future (Deluxe)","B major",63
+"ZAYN","2018-12-14",2018,0.639,0.411,2,-5.979,0.042,0.55,0,0.141,0.158,96.965,4,180120,FALSE,"Good Years",21,"Icarus Falls","D major",61
+"ZAYN","2016-03-25",2016,0.364,0.161,9,-18.356,0.0332,0.934,0.0712,0.11,0.21,118.445,4,104240,FALSE,"INTERMISSION: fLoWer",7,"Mind Of Mine (Deluxe Edition)","A major",49
+"ZAYN","2016-03-25",2016,0.611,0.319,5,-10.743,0.0357,0.815,0.0151,0.108,0.176,124.92,4,226653,TRUE,"iT's YoU",3,"Mind Of Mine (Deluxe Edition)","F major",60
+"One Direction","2012-11-12",2012,0.72,0.725,4,-5.996,0.0463,0.00603,0,0.24,0.679,126.471,4,200920,FALSE,"I Would",9,"Take Me Home (Expanded Edition)","E major",64
+"Liam Payne","2019-12-06",2019,0.63,0.703,6,-4.854,0.114,0.225,0,0.227,0.474,75.063,4,116970,FALSE,"Heart Meet Break",4,"LP1","F# minor",45
+"ZAYN","2021-01-15",2021,0.397,0.245,2,-10.92,0.0397,0.825,0.00403,0.187,0.291,94.243,3,236040,FALSE,"River Road",11,"Nobody Is Listening","D major",43
+"One Direction","2014-11-17",2014,0.565,0.862,4,-3.715,0.0326,0.0014,0,0.105,0.647,122.994,4,229040,FALSE,"Where Do Broken Hearts Go",3,"FOUR (Deluxe)","E major",67
+"One Direction","2014-11-17",2014,0.395,0.906,0,-4.683,0.0866,0.0183,0,0.382,0.196,147.864,4,231706,FALSE,"Clouds",12,"FOUR (Deluxe)","C major",61
+"Liam Payne","2019-12-06",2019,0.625,0.684,1,-7.147,0.0687,0.342,6.37e-05,0.107,0.217,119.932,4,188233,FALSE,"Bedroom Floor",17,"LP1","C# major",54
+"Liam Payne","2019-12-06",2019,0.651,0.893,7,-4.466,0.0397,0.249,0,0.0796,0.473,113.967,4,188368,FALSE,"Polaroid (With Jonas Blue & Lennon Stella)",15,"LP1","G minor",39
+"Harry Styles","2019-12-13",2019,0.566,0.846,7,-6.904,0.035,0.000564,0.000795,0.121,0.86,160.02,4,221826,FALSE,"Sunflower, Vol. 6",9,"Fine Line","G minor",73
+"One Direction","2012-11-12",2012,0.373,0.575,2,-6.862,0.0915,0.302,0,0.125,0.5,72.595,4,182040,FALSE,"Over Again",10,"Take Me Home (Expanded Edition)","D major",66
+"ZAYN","2016-03-25",2016,0.52,0.513,7,-7.208,0.0256,0.281,0,0.0976,0.17,77.903,4,202213,FALSE,"fOoL fOr YoU",10,"Mind Of Mine (Deluxe Edition)","G major",67
+"ZAYN","2016-03-25",2016,0.719,0.614,9,-5.354,0.0327,0.611,1.4e-05,0.108,0.69,95.988,4,201293,FALSE,"rEaR vIeW",8,"Mind Of Mine (Deluxe Edition)","A minor",54
+"One Direction","2012-11-12",2012,0.514,0.727,0,-6.131,0.0492,0.126,0,0.0978,0.37,147.917,4,200400,FALSE,"They Don't Know About Us",12,"Take Me Home (Expanded Edition)","C major",76
+"One Direction","2012-05-25",2012,0.561,0.898,7,-4.722,0.056,0.000165,1.86e-05,0.327,0.638,133.965,4,198053,FALSE,"Tell Me a Lie",7,"Up All Night","G major",58
+"One Direction","2015-11-13",2015,0.537,0.705,4,-6.073,0.0337,0.0687,0,0.0842,0.32,131.965,4,249480,FALSE,"Infinity",4,"Made In The A.M. (Deluxe Edition)","E major",67
+"One Direction","2013-11-25",2013,0.515,0.714,0,-4.516,0.0348,0.286,0,0.118,0.495,155.954,4,188546,FALSE,"Half a Heart",18,"Midnight Memories (Deluxe)","C major",67
+"Liam Payne","2019-12-06",2019,0.726,0.926,1,-3.523,0.0534,0.0269,3.86e-06,0.0519,0.545,108,4,203980,FALSE,"Get Low (With Zedd)",16,"LP1","C# major",41
+"Harry Styles","2022-05-20",2022,0.417,0.202,0,-10.976,0.0357,0.935,0,0.108,0.323,118.029,4,194543,FALSE,"Boyfriends",12,"Harry's House","C major",74
+"ZAYN","2018-12-14",2018,0.628,0.476,2,-5.856,0.0496,0.201,0,0.0913,0.219,134.998,4,232520,TRUE,"Common",4,"Icarus Falls","D minor",55
+"Liam Payne","2019-12-06",2019,0.499,0.634,0,-4.636,0.213,0.0829,6.29e-05,0.168,0.459,179.907,4,190562,FALSE,"Weekend",10,"LP1","C minor",39
+"Harry Styles","2019-12-13",2019,0.535,0.521,0,-5.942,0.0272,0.000532,0.371,0.19,0.457,140.026,3,362653,FALSE,"She",8,"Fine Line","C major",74
+"One Direction","2013-11-25",2013,0.549,0.868,2,-4.319,0.0614,0.0604,0,0.137,0.755,171.96,4,184666,FALSE,"Diana",3,"Midnight Memories (Deluxe)","D major",66
+"Harry Styles","2019-12-13",2019,0.548,0.816,0,-4.209,0.0465,0.122,0,0.335,0.557,95.39,4,174000,FALSE,"Watermelon Sugar",2,"Fine Line","C major",89
+"Harry Styles","2022-05-20",2022,0.507,0.294,2,-10,0.04,0.896,1.97e-05,0.0966,0.386,114.199,4,245964,FALSE,"Matilda",7,"Harry's House","D major",83
+"One Direction","2012-11-12",2012,0.663,0.857,2,-2.16,0.0544,0.0542,0,0.144,0.931,126.039,4,200213,FALSE,"Live While We're Young",1,"Take Me Home (Expanded Edition)","D major",75
+"Harry Styles","2019-12-13",2019,0.306,0.347,2,-8.5,0.0334,0.172,0.00013,0.0485,0.0511,120.996,4,377960,FALSE,"Fine Line",12,"Fine Line","D major",77
+"ZAYN","2021-01-15",2021,0.624,0.671,7,-7.454,0.0895,0.243,0.014,0.119,0.302,96.892,4,163346,FALSE,"Vibez",4,"Nobody Is Listening","G major",51
+"ZAYN","2018-12-14",2018,0.66,0.374,0,-10.769,0.0585,0.582,0.0724,0.099,0.159,98.012,4,198480,FALSE,"Stand Still",6,"Icarus Falls","C major",48
+"One Direction","2012-05-25",2012,0.54,0.86,8,-2.424,0.0508,0.000478,0,0.214,0.585,127.927,4,203706,FALSE,"Another World",16,"Up All Night","G# major",54
+"Louis Tomlinson","2022-11-11",2022,0.574,0.906,8,-4.482,0.122,0.000937,0.00596,0.0678,0.826,162.061,4,137973,FALSE,"Out Of My System",8,"Faith In The Future (Deluxe)","G# minor",65
+"Louis Tomlinson","2022-11-11",2022,0.45,0.716,1,-3.598,0.0291,0.00119,0,0.131,0.306,81.987,4,232413,FALSE,"Chicago",6,"Faith In The Future (Deluxe)","C# major",65
+"Louis Tomlinson","2022-11-11",2022,0.578,0.595,9,-5.725,0.0276,0.195,0,0.0992,0.504,92.002,4,210226,FALSE,"Holding On To Heartache",15,"Faith In The Future (Deluxe)","A major",64
+"Louis Tomlinson","2020-01-31",2020,0.638,0.648,11,-5.873,0.0471,0.0973,0,0.122,0.508,118.993,4,223920,FALSE,"Defenceless",11,"Walls","B major",61
+"ZAYN","2018-12-14",2018,0.748,0.627,7,-6.029,0.0639,0.131,0,0.0852,0.524,120.963,4,188490,FALSE,"Still Got Time (feat. PARTYNEXTDOOR)",28,"Icarus Falls","G major",51
+"Louis Tomlinson","2020-01-31",2020,0.463,0.481,3,-6.691,0.0293,0.301,0,0.247,0.652,79.052,4,106466,FALSE,"Only the Brave",12,"Walls","D# major",60
+"Niall Horan","2020-03-13",2020,0.626,0.795,1,-3.963,0.0451,0.0154,0,0.35,0.758,123.995,4,228767,FALSE,"Cross Your Mind",10,"Heartbreak Weather","C# major",56
+"ZAYN","2018-12-14",2018,0.769,0.536,10,-7.635,0.373,0.343,0.000876,0.086,0.634,119.942,5,205573,TRUE,"You Wish You Knew",15,"Icarus Falls","A# minor",47
+"One Direction","2014-11-17",2014,0.524,0.831,2,-4.174,0.036,0.00229,0,0.171,0.299,115.067,4,196053,FALSE,"Ready to Run",2,"FOUR (Deluxe)","D major",66
+"One Direction","2012-11-12",2012,0.643,0.852,11,-3.763,0.0427,0.0112,0,0.0749,0.863,134.024,4,184000,FALSE,"Magic",19,"Take Me Home (Expanded Edition)","B major",65
+"ZAYN","2018-12-14",2018,0.655,0.482,8,-5.978,0.0726,0.616,1.57e-05,0.314,0.274,99.59,4,193186,FALSE,"Natural",2,"Icarus Falls","G# major",50
+"ZAYN","2016-03-25",2016,0.614,0.475,7,-8.642,0.0362,0.395,1.06e-06,0.265,0.422,99.968,4,212746,TRUE,"wRoNg (feat. Kehlani)",9,"Mind Of Mine (Deluxe Edition)","G minor",64
+"ZAYN","2016-03-25",2016,0.618,0.645,1,-5.264,0.0434,0.0481,0,0.228,0.221,97.654,4,178693,FALSE,"TiO",14,"Mind Of Mine (Deluxe Edition)","C# minor",64
+"Niall Horan","2017-10-20",2017,0.598,0.478,6,-11.304,0.0314,0.259,0.000321,0.0994,0.255,140.012,4,206362,FALSE,"Fire Away",9,"Flicker (Deluxe)","F# major",54
+"Niall Horan","2020-03-13",2020,0.589,0.471,10,-4.908,0.0262,0.674,0,0.105,0.262,95.972,4,224585,FALSE,"Put A Little Love On Me",7,"Heartbreak Weather","A# major",71
+"ZAYN","2018-12-14",2018,0.548,0.541,2,-6.684,0.0692,0.338,0,0.318,0.199,169.488,4,199906,FALSE,"If I Got You",9,"Icarus Falls","D major",49
+"ZAYN","2016-03-25",2016,0.679,0.629,4,-7.981,0.0318,0.242,0.012,0.122,0.186,102.005,4,208920,FALSE,"BeFoUr",4,"Mind Of Mine (Deluxe Edition)","E minor",57
+"Louis Tomlinson","2022-11-11",2022,0.468,0.835,4,-3.8,0.0501,0.00195,0,0.424,0.454,144.925,4,221440,FALSE,"Bigger Than Me",3,"Faith In The Future (Deluxe)","E major",63
+"One Direction","2015-11-13",2015,0.579,0.779,4,-1.829,0.0512,0.0379,0,0.385,0.587,164.145,3,213440,FALSE,"Never Enough",8,"Made In The A.M. (Deluxe Edition)","E minor",62
+"Niall Horan","2020-03-13",2020,0.443,0.582,2,-6.02,0.0482,0.0301,0,0.127,0.239,147.589,4,193089,FALSE,"Black And White",2,"Heartbreak Weather","D major",70
+"ZAYN","2016-03-25",2016,0.479,0.425,0,-12.537,0.0994,0.833,0.000834,0.0935,0.162,85.203,4,245253,FALSE,"tRuTh",12,"Mind Of Mine (Deluxe Edition)","C major",49
+"One Direction","2012-11-12",2012,0.536,0.488,7,-8.938,0.0244,0.0346,0,0.113,0.263,87.986,4,236853,FALSE,"Irresistible",20,"Take Me Home (Expanded Edition)","G major",59
