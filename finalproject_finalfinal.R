@@ -49,7 +49,8 @@ ui <- fluidPage (
   dashboardPage(
     dashboardHeader(title = "An Analysis on One Direction: Pre and Post Split",
                     titleWidth = 650,
-    tags$li(class="dropdown",tags$a(href="https://github.com/sarahrizkyy/qac251", icon("github"), "Source Code"))),
+    tags$li(class="dropdown",tags$a(href="https://github.com/sarahrizkyy/qac251", icon("github"), "Source Code")),
+    tags$li(class="dropdown",tags$a(href="https://www.instagram.com/s.ardhani/", icon("instagram"), "My Profile"))),
     
     dashboardSidebar(
       sidebarMenu(id="sidebar",
