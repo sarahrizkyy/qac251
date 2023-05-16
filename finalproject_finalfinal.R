@@ -18,31 +18,13 @@ require(DT)
 onedirection<-read.csv("https://raw.githubusercontent.com/sarahrizkyy/qac251/main/onedirection.csv")
 onedirection%>%
   mutate(album_release_date=as.Date(album_release_date, format="%Y-%m-%d")) %>%
-  arrange(album_release_date)-> onedirection
+  arrange(desc(album_release_date))-> onedirection
 onedirection%>%
   mutate(album_name_ordered=factor(album_name, levels = rev(unique(onedirection$album_name)))) %>% 
   mutate(artist_name_ordered=factor(artist_name, levels = rev(unique(onedirection$artist_name))))-> onedirection
 
 
-#Visualization 1: One Direction's Brief Background and History#
-ggplot(data=onedirection)+
-  stat_summary(aes(x=album_release_date, y=popularity, color=artist_name_ordered), fun="mean", geom="point")+
-  stat_summary(aes(x=album_release_date, y=popularity, color=artist_name_ordered), fun="mean", geom="line")+
-  ggtitle("Popularity of Artists Over the Years (Based on Album Releases)")+
-  ylab("Popularity")+
-  xlab("Year (Based on Album Releases)")+
-  scale_color_brewer("Artist Name", palette = "Set2") +
-  scale_x_date(date_labels = "%Y") +
-  expand_limits(x = as.Date("2010-12-10")) +
-  geom_vline(xintercept = as.Date("2010-12-10"), linetype=4)+
-  geom_vline(xintercept = as.Date("2015-12-31"), linetype=4) +
-  annotate("label", x=as.Date("2011-02-01"), y=55, label="One Direction was introduced \nto the world through X-Factor Series 7. \nThey won third place in Dec 2010",
-           hjust=0, vjust=1, size=2.5, fontface="bold", color="black")+
-  annotate("label", x=as.Date("2016-02-20"), y=69, label="Zayn left the band in Mar 2015. \nOne Direction dissolved in Dec 2015.",
-           hjust=0, vjust=1, size=2.5, fontface="bold", color="black") 
-
-
-#Visualization 2-5: VERY Big Shiny App#
+#Visualization 1-5: VERY Big Shiny App#
 #Layout is Heavily Inspired by https://www.youtube.com/watch?v=tlOBVZx8Hy0#
 ui <- fluidPage (
   
@@ -51,6 +33,7 @@ ui <- fluidPage (
                     titleWidth = 650,
     tags$li(class="dropdown",tags$a(href="https://github.com/sarahrizkyy/qac251", icon("github"), "Source Code")),
     tags$li(class="dropdown",tags$a(href="https://www.instagram.com/s.ardhani/", icon("instagram"), "My Profile"))),
+    
     
     dashboardSidebar(
       sidebarMenu(id="sidebar",
@@ -75,7 +58,7 @@ ui <- fluidPage (
                                                          "instrumentalness","liveness","valence","tempo"))),
                   menuItem("Predicting Popularity", tabName = "pop", icon=icon("chart-line")),
                   conditionalPanel("input.sidebar == 'pop' && input.t3 == 'tool'",
-                                   selectInput(inputId = "artistchoice",
+                                   selectInput(inputId = "pop_artistchoice",
                                                label="Choose an artist to analyze:",
                                                choices=c(unique(onedirection$artist_name)),
                                                multiple = TRUE),
@@ -86,7 +69,7 @@ ui <- fluidPage (
                                    selectInput(inputId="sentimenty",
                                                label="Choose a sentiment type as your y axis",
                                                choices=c("danceability","energy","loudness","speechiness","acousticness",
-                                                         "instrumentalness","liveness","valence", "tempo"))))),
+                                                         "instrumentalness","liveness","valence", "tempo", "popularity"))))),
     
     
     dashboardBody(
@@ -101,6 +84,8 @@ ui <- fluidPage (
                 tabBox(id="t2", width = 12,
                        tabPanel("About", icon=icon("address-card"), 
                                 textOutput(outputId = "about2")),
+                       tabPanel("Brief Background and History", value="history", 
+                                plotOutput(outputId = "history")),
                        tabPanel("Individual Discographies", value="discographies", 
                                 plotlyOutput(outputId = "viz_plotly"),
                                 dataTableOutput(outputId = "viz_track_table")),
@@ -153,7 +138,7 @@ server <- function(input, output, session){
       arrange(track_number) %>% 
       filter(artist_name == input$artistchoice,
              album_release_date == selected_data$x) %>%
-      select(track_name, key, time_signature, duration_ms, explicit) -> track_table
+      select(track_name, key, time_signature, duration_ms, explicit, popularity) -> track_table
     
     track_table
   }, options = list(scrollX = TRUE, scrollY = "150px"))
@@ -189,7 +174,8 @@ server <- function(input, output, session){
     ggplot(data=onedirectionsub)+
       geom_violin(aes(x=album_name_ordered, y=eval(as.symbol(input$sent_sentimentchoice))))+
       geom_jitter(aes(x=album_name_ordered, y=eval(as.symbol(input$sent_sentimentchoice)), color=eval(as.symbol(input$sent_sentimentchoice)),
-                      text=paste("Track name:", track_name, "<br>Score:", eval(as.symbol(input$sent_sentimentchoice)))))+
+                      text=paste("Track name:", track_name, "<br>Score:", eval(as.symbol(input$sent_sentimentchoice)),
+                                 "<br>Popularity score:", popularity)))+
       ylab(paste(input$sent_sentimentchoice))+
       xlab("Album Name")+
       scale_color_viridis_c(name = input$sent_sentimentchoice, option = "C", direction=-1) +
@@ -200,14 +186,15 @@ server <- function(input, output, session){
   
   output$pop_plotly <- renderPlotly({
     onedirection%>%
-      filter(artist_name %in% c(input$artistchoice)) -> onedirectionsub
+      filter(artist_name %in% c(input$pop_artistchoice)) -> onedirectionsub
     
     ggplot(data=onedirectionsub)+
       geom_point (aes(x=eval(as.symbol(input$sentimentx)), y=eval(as.symbol(input$sentimenty)), 
-                      color=popularity, text=paste("Track name:", track_name,"<br>Artist name:",artist_name)))+
+                      color=popularity, text=paste("Track name:", track_name,"<br>Artist name:",artist_name,
+                                                   "<br>Popularity score:", popularity)))+
       geom_smooth(aes(x=eval(as.symbol(input$sentimentx)), y=eval(as.symbol(input$sentimenty))), 
                   se=FALSE, color="black")+
-      scale_color_distiller("Popularity", palette="Spectral")+
+      scale_color_distiller("Popularity", palette="YlGnBu", direction=1)+
       ylab(input$sentimenty)+
       xlab(input$sentimentx) ->g1
     
@@ -215,7 +202,7 @@ server <- function(input, output, session){
   
   output$pop_table <- renderTable({
     onedirection%>%
-      filter(artist_name %in% c(input$artistchoice)) %>%
+      filter(artist_name %in% c(input$pop_artistchoice)) %>%
       arrange(desc(popularity)) %>%
       select(artist_name, track_name, popularity, input$sentimentx, input$sentimenty) %>%
       head(n=5)-> table1
@@ -223,16 +210,34 @@ server <- function(input, output, session){
   
   output$about1 <-renderText({"Data was sourced directly from the Spotify API.
     Then, some additional variables were created to properly visualize the data.
-    In total, the dataset includes 255 observations of 23 variables"})
+    In total, the dataset includes 255 observations of 23 variables."})
   
   output$about2 <- renderText({"This section explores changes between eras and within artists.
                                 The 'Individual Discographies' tab takes a closer look at track information by artist by album. Please use the select tool to generate detailed tables.
                                 The 'Pre and Post Changes' tab analyzes sentiment changes between the two eras, using Band Era as time 0.
-                                Lastly, the 'Sentiment Distributions' tab investigates detailed sentiment distributions by artist by album"})
+                                Lastly, the 'Sentiment Distributions' tab investigates detailed sentiment distributions by artist by album."})
   
   output$about3 <- renderText({"This section is created for the curious minds. 
-    Play around with the sentiment variables and find what may predict popularity the most."})
+    Play around with the sentiment variables and find what may predict popularity the best."})
+  
+  output$history <- renderPlot({
+    ggplot(data=onedirection)+
+      stat_summary(aes(x=album_release_date, y=popularity, color=artist_name_ordered), fun="mean", geom="point")+
+      stat_summary(aes(x=album_release_date, y=popularity, color=artist_name_ordered), fun="mean", geom="line")+
+      ggtitle("Popularity of Artists Over the Years (Based on Album Releases)")+
+      ylab("Popularity")+
+      xlab("Year (Based on Album Releases)")+
+      scale_color_brewer("Artist Name", palette = "Set2") +
+      scale_x_date(date_labels = "%Y") +
+      expand_limits(x = as.Date("2010-12-10")) +
+      geom_vline(xintercept = as.Date("2010-12-10"), linetype=4)+
+      geom_vline(xintercept = as.Date("2015-12-31"), linetype=4) +
+      annotate("label", x=as.Date("2011-02-01"), y=55, label="One Direction was introduced \nto the world through X-Factor Series 7. \nThey won third place in Dec 2010",
+               hjust=0, vjust=1, size=2.5, fontface="bold", color="black")+
+      annotate("label", x=as.Date("2016-02-20"), y=69, label="Zayn left the band in Mar 2015. \nOne Direction dissolved in Dec 2015.",
+               hjust=0, vjust=1, size=2.5, fontface="bold", color="black") })
 
 }
   
 shinyApp(ui = ui, server = server)
+
